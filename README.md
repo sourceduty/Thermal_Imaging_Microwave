@@ -12,5 +12,10 @@ In addition to thermal imaging, the microwave can incorporate other sensors, suc
 
 The integration of optical cameras further enhances the microwave's capabilities by providing visual images of the food. These images can be combined with the thermal data to offer a more complete view of the cooking process. This combination of thermal and optical imaging enables users to monitor their food closely and make any necessary adjustments in real-time, improving the overall cooking experience and reducing the likelihood of overcooking or undercooking.
 
+#
+### Related Links
+
+[Thermal Imaging PC Case](https://github.com/sourceduty/Thermal_Imaging_PC_Case)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

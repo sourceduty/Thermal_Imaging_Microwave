@@ -16,6 +16,8 @@ The integration of optical cameras further enhances the microwave's capabilities
 ### Related Links
 
 [Thermal Imaging PC Case](https://github.com/sourceduty/Thermal_Imaging_PC_Case)
+<br>
+[Thermal Science](https://chat.openai.com/g/g-JhRbCZ4k0-thermal-science)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
